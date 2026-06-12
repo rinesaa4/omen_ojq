@@ -1,0 +1,155 @@
+.article{
+  background-color: #f2f2f2;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+/* .article::before{
+  content: "";
+  box-shadow: inset 0.1em 0.1em 1em   rgb(180, 180, 180);
+  
+  width: 350px;
+  height: 450px;
+  position: absolute;
+  top: 0;
+
+
+} */
+.coming_soon{
+  background-color: #f2f2f2;
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  
+}
+.coming_soon::before{
+  content: "Coming Soon";
+  background-color: rgba(204, 130, 158, 0.435);
+  box-shadow: inset 0.1em 0.1em 1em rgb(180, 180, 180);
+  color: #d8445f;
+ 
+  font-family: 'Abhaya Libre';
+  font-weight: bold;
+  text-align: center;
+
+
+  
+
+  position: absolute;
+  top: 0px;
+} 
+
+
+
+.article_context{
+  height: 70px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  
+
+}
+.article_context p,
+.article_context div{
+  width: fit-content;
+  height: fit-content;
+  text-align: start;
+ 
+  
+
+}
+
+
+
+
+@media screen and (min-width: 300px) {
+  
+  .article,
+  .coming_soon,
+  .coming_soon::before,
+  .article_context{
+   width: 300px;
+   
+  }
+  .article_pic{
+    width: 300px;
+    height: 280px;
+  }
+
+  .coming_soon::before{
+     height: 350px;
+     font-size: 28px;
+  }
+  .article_context p{
+    letter-spacing: 20%;
+    font-size: 12px;
+    margin: 0px 10px;
+  }
+   .article_context img{
+    width: 30px;
+    margin: 0px 5px;
+  }
+}
+
+@media screen and (min-width: 650px) {
+    
+  .article,
+  .coming_soon,
+  .coming_soon::before,
+  .article_context{
+  width:300px;
+  }
+  .article_pic{
+    width: 300px;
+    height: 280px;
+  }
+     .coming_soon::before{
+    height: 350px;
+    font-size: 30px;
+  }
+  .article_context p{
+    letter-spacing: 30%;
+    font-size: 14px;
+    margin: 0px 15px;
+  }
+  .article_context img{
+    width: 35px;
+    margin: 0px 10px;
+  }
+}
+@media screen and (min-width: 850px) {
+  .article,
+  .coming_soon,
+  .coming_soon::before,
+  .article_context{
+  width: 400px;
+  }
+
+  .article_pic{
+    width: 400px;
+    height: 380px;
+  }
+  .coming_soon::before{
+    height: 450px;
+    font-size: 40px;
+  }
+  
+  .article_context p{
+     letter-spacing: 40%;
+    font-size: 14px;
+    margin: 0px 20px;
+  }
+   .article_context img{
+    width: 40px;
+    margin: 0px 20px;
+  }
+}
+
+

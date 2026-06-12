@@ -1,0 +1,11 @@
+import Kujdesi_bazik_për_të_porsalindurin from './Foshnja/Kujdesi_bazik_për_të_porsalindurin.jpg'
+import Ushqyerja_me_gji_dhe_përfitimet_e_saj from './Foshnja/Ushqyerja_me_gji_dhe_përfitimet_e_saj.jpg'
+import Zhvillimi_i_foshnjës_muaj_pas_muaji from './Foshnja/Zhvillimi_i_foshnjës_muaj_pas_muaji.jpg'
+import Shenjat_kur_foshnja_duhet_dërguar_te_mjeku from './Foshnja/Shenjat_kur_foshnja_duhet_dërguar_te_mjeku.jpg'
+
+export {
+ Kujdesi_bazik_për_të_porsalindurin,
+ Ushqyerja_me_gji_dhe_përfitimet_e_saj,
+ Zhvillimi_i_foshnjës_muaj_pas_muaji,
+ Shenjat_kur_foshnja_duhet_dërguar_te_mjeku
+}

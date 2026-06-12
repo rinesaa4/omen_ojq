@@ -1,0 +1,7 @@
+import Ushqyerja_gjatë_shtatzënisë from './Shtatzenia/Ushqyerja_gjatë_shtatzënisë.png'
+import Kujdesi_prenatal_dhe_kontrollet_rutinë from './Shtatzenia/Kujdesi_prenatal_dhe_kontrollet_rutinë.jpg'
+import Komplikimet_më_të_zakonshme_në_shtatzëni from './Shtatzenia/Komplikimet_më_të_zakonshme_në_shtatzëni.png'
+import Përgatitja_për_ardhjen_e_bebit from './Shtatzenia/Përgatitja_për_ardhjen_e_bebit.jpg'
+
+
+export {Ushqyerja_gjatë_shtatzënisë, Kujdesi_prenatal_dhe_kontrollet_rutinë, Komplikimet_më_të_zakonshme_në_shtatzëni, Përgatitja_për_ardhjen_e_bebit};

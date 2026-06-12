@@ -1,0 +1,7 @@
+import Metodat_kontraceptive_moderne from './Planifikimi_Familjar/Metodat_kontraceptive_moderne.jpg';
+import Edukimi_seksual_dhe_shëndeti_riprodhues from './Planifikimi_Familjar/Edukimi_seksual_dhe_shëndeti_riprodhues.jpg';
+import Ndikimi_i_stilit_të_jetesës_në_fertilitet from './Planifikimi_Familjar/Ndikimi_i_stilit_të_jetesës_në_fertilitet.png'
+import Planifikimi_i_shtatzënisë_së_shëndetshme from './Planifikimi_Familjar/Planifikimi_i_shtatzënisë_së_shëndetshme.jpg'
+
+
+export{Metodat_kontraceptive_moderne, Edukimi_seksual_dhe_shëndeti_riprodhues, Ndikimi_i_stilit_të_jetesës_në_fertilitet, Planifikimi_i_shtatzënisë_së_shëndetshme};
