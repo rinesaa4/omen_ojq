@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/omen_ojq/static/css/main.e6c13ad2.css",
-    "main.js": "/omen_ojq/static/js/main.638e31d8.js",
+    "main.js": "/omen_ojq/static/js/main.e5f72ec5.js",
     "static/css/372.f9f8b28e.chunk.css": "/omen_ojq/static/css/372.f9f8b28e.chunk.css",
     "static/js/372.03d6b351.chunk.js": "/omen_ojq/static/js/372.03d6b351.chunk.js",
     "static/css/310.e8eee72e.chunk.css": "/omen_ojq/static/css/310.e8eee72e.chunk.css",
@@ -53,7 +53,7 @@
     "static/media/anila_img.png": "/omen_ojq/static/media/anila_img.447a5eb354f73342f7e3.png",
     "index.html": "/omen_ojq/index.html",
     "main.e6c13ad2.css.map": "/omen_ojq/static/css/main.e6c13ad2.css.map",
-    "main.638e31d8.js.map": "/omen_ojq/static/js/main.638e31d8.js.map",
+    "main.e5f72ec5.js.map": "/omen_ojq/static/js/main.e5f72ec5.js.map",
     "372.f9f8b28e.chunk.css.map": "/omen_ojq/static/css/372.f9f8b28e.chunk.css.map",
     "372.03d6b351.chunk.js.map": "/omen_ojq/static/js/372.03d6b351.chunk.js.map",
     "310.e8eee72e.chunk.css.map": "/omen_ojq/static/css/310.e8eee72e.chunk.css.map",
@@ -80,6 +80,6 @@
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.638e31d8.js"
+    "static/js/main.e5f72ec5.js"
   ]
 }
