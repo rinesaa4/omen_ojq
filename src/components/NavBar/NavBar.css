@@ -67,11 +67,7 @@
   
 }
 
-.text:hover {
-  /* box-shadow: 1px 0px 4px #e39daa; */
-  font-size: 25px;
- 
-}
+
 
 
 
@@ -165,4 +161,9 @@
     .navBar{
     height: 150px;
   }
+  .text:hover {
+  /* box-shadow: 1px 0px 4px #e39daa; */
+  font-size: 25px;
+ 
+}
 }

@@ -61,7 +61,7 @@ const NavBar = () => {
             color: "#EF5A76",
          
            }}>
-            Kategorit
+            Kategoritë
             <img onClick={handlelClick}width='25px' src={x}/>
            </div>
            <div style={{
